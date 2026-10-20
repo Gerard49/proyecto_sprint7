@@ -1,0 +1,5 @@
+pandas
+plotly-express
+plotly
+streamlit 
+nbformat>=4.2.0
